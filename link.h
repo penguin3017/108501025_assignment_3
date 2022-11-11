@@ -1,7 +1,7 @@
 #ifndef LINK_H
 #define LINK_H
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 enum chesstype{
     kyousya,keima,ginnsyou,kinnsyou,ousyou,hisya,kakugyou,fubyou,space,
