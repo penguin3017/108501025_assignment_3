@@ -24,7 +24,7 @@ How to load a manual:
 ## How to Compile & Run
 ```sh
 # Compile
-gcc -o bb main.c stk.c -lev
+gcc -o bb main2.c link.c -lev
 
 # Run (Playing a new game)
 ./bb –n –s new_game.txt
