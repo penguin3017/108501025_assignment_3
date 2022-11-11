@@ -1,6 +1,8 @@
 # Data Structure HW3: Shogi in C (linked list)
 #### 電機4B 108501025 沈冠璋
 
+##Please download libev at my HW2: https://github.com/penguin3017/108501025_assignment_2.git
+
 The program can **create a new game of shogi** or **load a manual of shogi** 
 How to play the game:
 1. First, the system will ask you whether you would store the manual
